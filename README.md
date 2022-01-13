@@ -1,1 +1,10 @@
-# Tugas-6_bd-oracle
+TUGAS 6 DATA KARYAWAN 
+![Screenshot (50)](https://user-images.githubusercontent.com/46393566/149359841-7030bbf0-5ef2-40e2-8c01-88f260ad9317.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/46393566/149359975-fa72a634-f4c7-436f-8336-3140737e4d59.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/46393566/149359999-df4b736d-5891-4740-b2e3-6f30f3ed227d.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/46393566/149360013-6449a9ee-39e3-4984-b999-88534a0ea4fe.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/46393566/149360033-0a84d3e8-ed08-43c0-b91a-3bbd2dff2898.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/46393566/149360057-b5f6ef46-ea26-4dc7-a19e-2ca52a7a2066.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/46393566/149360098-adcc84f9-d8ac-4969-94df-d4fbf32cdf45.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/46393566/149360110-bb3040fd-9773-443f-bbad-8c8e7ce437b5.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/46393566/149360132-ea069420-df97-4bc3-bf25-20864053fd63.png)
